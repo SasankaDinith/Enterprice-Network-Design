@@ -3,11 +3,63 @@
     <p>This project simulates a real-world <strong>enterprise/campus network</strong> using <strong>Cisco Packet Tracer</strong>, ideal for institutions such as universities or corporate environments with multiple departments and remote locations.</p>
     
   <h2>🏗️ Project Overview</h2>
-    <p>The network is divided into <strong>two main areas</strong>:</p>
-    <ul>
-        <li>🏢 <strong>Main Campus</strong> – Includes multiple departments like Admin, Finance, IT, Business, R&D, Labs, etc.</li>
-        <li>🏫 <strong>Small Campus</strong> – A remote campus that connects back to the main network using routing.</li>
-    </ul>
+       <p>
+    This University is a large university which has two campuses situated 20 miles apart.
+    The university’s students and staff are distributed in 4 faculties. These include the faculties of
+    Health and Sciences; Business; Engineering/Computing and Art/Design. Each member of staff has a PC and
+    students have access to PCs in the labs.
+  </p>
+
+  <h2>Requirements:</h2>
+  <p>
+    a. Create a network topology with the main components to support the following:
+  </p>
+
+  <strong>Main campus:</strong>
+  <ul>
+    <li>
+      <strong>Building A:</strong> Administrative staff in the departments of management, HR
+      and finance. The admin staff PCs are distributed in the building offices and it is expected
+      that they will share some networking equipment (Hint: use of VLANs is expected here).
+      The Faculty of Business is also situated in this building
+    </li>
+    <li>
+      <strong>Building B:</strong> Faculty of Engineering and Computing and Faculty of Art and
+      Design
+    </li>
+    <li>
+      <strong>Building C:</strong> Students’ labs and IT department. The IT department hosts the
+      University Web server and other servers
+    </li>
+    <li>
+      There is also an email server hosted externally on the cloud.
+    </li>
+  </ul>
+
+  <strong>Smaller campus:</strong>
+  <ul>
+    <li>
+      Faculty of Health and Sciences (staff and students’ labs are situated on
+      separate floors)
+    </li>
+  </ul>
+
+  <p>
+    b. You will be expected to configure the core devices and few end devices to provide end-to-end
+    connectivity and access to the internal servers and the external server.
+  </p>
+
+  <p>
+    Each department/faculty is expected to be on its own separate IP network
+  </p>
+  <p>
+    The switches should be configured with appropriate VLANs and security settings
+  </p>
+  <p>
+    RIPV2 will be used to provide routing for the routers in the internal network and static router
+    for the external server.
+  </p>
+</body>
 
   <h2>🔧 Features & Configuration</h2>
     <ul>
@@ -35,4 +87,3 @@
         <li>Realistic simulation of enterprise network infrastructure</li>
     </ul>
 
- 
