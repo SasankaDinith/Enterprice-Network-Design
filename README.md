@@ -63,12 +63,12 @@
 
   <h2>🔧 Features & Configuration</h2>
     <ul>
-        <li>✅ <strong>VLAN Configuration</strong> - Each department is assigned a specific VLAN (e.g., VLAN90, VLAN100, etc.) to segment traffic and enhance security.</li>
-        <li>✅ <strong>Inter-VLAN Routing</strong> - A multilayer switch is configured to enable communication between VLANs.</li>
-        <li>✅ <strong>DHCP Server</strong> - Configured to automatically assign IP addresses to devices in different VLANs.</li>
-        <li>✅ <strong>FTP Server & Cloud Simulation</strong> - Added for demonstrating server integration and external connectivity.</li>
-        <li>✅ <strong>Subnetting & IP Scheme</strong> - A detailed subnetting plan to manage IP address distribution efficiently.</li>
-        <li>✅ <strong>End Devices</strong> - Each department includes PCs, printers, and switches to simulate a realistic working environment.</li>
+        <p>✅ <strong>VLAN Configuration</strong> - Each department is assigned a specific VLAN (e.g., VLAN90, VLAN100, etc.) to segment traffic and enhance security.</li>
+        <p>✅ <strong>Inter-VLAN Routing</strong> - A multilayer switch is configured to enable communication between VLANs.</li>
+        <p>✅ <strong>DHCP Server</strong> - Configured to automatically assign IP addresses to devices in different VLANs.</li>
+        <p>✅ <strong>FTP Server & Cloud Simulation</strong> - Added for demonstrating server integration and external connectivity.</li>
+        <p>✅ <strong>Subnetting & IP Scheme</strong> - A detailed subnetting plan to manage IP address distribution efficiently.</li>
+        <p>✅ <strong>End Devices</strong> - Each department includes PCs, printers, and switches to simulate a realistic working environment.</li>
     </ul>
 
   <h2>📁 Files Included</h2>
