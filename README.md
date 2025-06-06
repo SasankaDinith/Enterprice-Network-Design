@@ -1,6 +1,8 @@
 
    <h1>🌐 Enterprise Network Design using Cisco Packet Tracer</h1>
     <p>This project simulates a real-world <strong>enterprise/campus network</strong> using <strong>Cisco Packet Tracer</strong>, ideal for institutions such as universities or corporate environments with multiple departments and remote locations.</p>
+
+   ![image url](https://github.com/SasankaDinith/Enterprice-Network-Design/blob/main/Screenshot%20(18).png?raw=true)
     
   <h2>🏗️ Project Overview</h2>
        <p>
